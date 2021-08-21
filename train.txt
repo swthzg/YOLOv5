@@ -1,0 +1,1 @@
+python train.py --data coco.yaml --cfg yolov5mSE.yaml --weights '' --batch-size 
